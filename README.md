@@ -21,7 +21,8 @@ class User:
 ```
 Explanation: The User class now only focuses on user data, while UserRepository handles persistence and EmailService handles communication. This separation improves maintainability and testing.
 
- 
+ ## 2. Open/Closed Principle (OCP)
+Definition: Software entities (classes, modules, functions) should be open for extension, but closed for modification.
 
 
 
